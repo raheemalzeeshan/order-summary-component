@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* font-family: 'Red Hat Display', sans-serif; */
 :root {
     /* ### Primary */
     --pale-blue: hsl(225, 100%, 94%);
